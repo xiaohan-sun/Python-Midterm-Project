@@ -1,4 +1,4 @@
-# Eco395m-Army-Ants
+# Data Science Related Job Market Overview
 ## Team Army Ants Midterm Project for Python, Data, and Databases
 ## Group Members
 * Yangxi Yu
